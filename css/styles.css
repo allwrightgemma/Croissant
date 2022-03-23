@@ -1,0 +1,26 @@
+body {
+  background-color: #ffe2ad;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: rgb(153, 28, 12);
+}
+
+img {
+  max-width: 500px;
+  margin: 0 auto 30px;
+  display: block;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
