@@ -1,5 +1,7 @@
 body {
-  background-color: #ffe2ad;
+  background-color: #facbe5;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 h1 {
